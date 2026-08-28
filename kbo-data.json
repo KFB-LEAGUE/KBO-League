@@ -1,14 +1,34 @@
 {
   "teams": [
     {
-      "name": "SSGLanders",
+      "name": "SSGLanders(SK)",
       "city": "",
       "logo": "https://cdn.discordapp.com/emojis/1406155333012946955.webp?size=80"
     },
     {
-      "name": "",
+      "name": "Chunichi",
       "city": "",
-      "logo": ""
+      "logo": "https://cdn.discordapp.com/emojis/1528019263019946124.webp?size=80"
+    },
+    {
+      "name": "Doosan Bears",
+      "city": "",
+      "logo": "https://cdn.discordapp.com/emojis/1369134080641335357.webp?size=80"
+    },
+    {
+      "name": "yakult swallows",
+      "city": "",
+      "logo": "https://cdn.discordapp.com/emojis/1528747436091117679.webp?size=80"
+    },
+    {
+      "name": "NCDinos",
+      "city": "",
+      "logo": "https://cdn.discordapp.com/emojis/1404464963191570483.webp?size=80"
+    },
+    {
+      "name": "NipponHam",
+      "city": "",
+      "logo": "https://cdn.discordapp.com/emojis/1528744275028738241.webp?size=80"
     }
   ],
   "standings": [
