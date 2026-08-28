@@ -1,1 +1,3 @@
-const playerStats={};
+const playerStats={
+
+};
