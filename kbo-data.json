@@ -34,15 +34,39 @@
   "standings": [
     {
       "team": "NC",
-      "g": 1,
+      "g": 17,
       "w": 14,
       "l": 5
     },
     {
       "team": "NIPPONHAM",
-      "g": 2,
+      "g": 17,
       "w": 12,
       "l": 5
+    },
+    {
+      "team": "DOOSAN",
+      "g": 17,
+      "w": 10,
+      "l": 7
+    },
+    {
+      "team": "YAKULT",
+      "g": 17,
+      "w": 7,
+      "l": 10
+    },
+    {
+      "team": "JUNICHI",
+      "g": 17,
+      "w": 7,
+      "l": 10
+    },
+    {
+      "team": "SK (CHIBA)",
+      "g": 17,
+      "w": 1,
+      "l": 16
     }
   ],
   "rosters": {}
