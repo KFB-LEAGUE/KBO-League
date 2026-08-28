@@ -69,5 +69,14 @@
       "l": 16
     }
   ],
-  "rosters": {}
+  "rosters": {
+    "SSGLanders(SK)": {
+      "players": [],
+      "pm": [
+        "L_mipr"
+      ],
+      "am": [],
+      "preSign": []
+    }
+  }
 }
