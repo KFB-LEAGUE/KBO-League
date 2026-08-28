@@ -33,10 +33,16 @@
   ],
   "standings": [
     {
-      "team": "",
-      "g": 0,
-      "w": 0,
-      "l": 0
+      "team": "NC",
+      "g": 1,
+      "w": 14,
+      "l": 5
+    },
+    {
+      "team": "NIPPONHAM",
+      "g": 2,
+      "w": 12,
+      "l": 5
     }
   ],
   "rosters": {}
