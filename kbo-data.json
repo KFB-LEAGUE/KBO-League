@@ -71,11 +71,18 @@
   ],
   "rosters": {
     "SSGLanders(SK)": {
-      "players": [],
+      "players": [
+        "Sc6ryjeir",
+        "doogypirate",
+        "Ni9htAlpha"
+      ],
       "pm": [
         "L_mipr"
       ],
-      "am": [],
+      "am": [
+        "shnoog344",
+        "MarcoTheLegion"
+      ],
       "preSign": []
     }
   }
