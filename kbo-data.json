@@ -1,1 +1,18 @@
-{"teams":[],"standings":[],"rosters":{}}
+{
+  "teams": [
+    {
+      "name": ":SSGLanders",
+      "city": "",
+      "logo": ""
+    }
+  ],
+  "standings": [
+    {
+      "team": "",
+      "g": 0,
+      "w": 0,
+      "l": 0
+    }
+  ],
+  "rosters": {}
+}
