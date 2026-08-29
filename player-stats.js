@@ -1,3 +1,1 @@
-const playerStats={
-
-};
+const playerStats={"Sc6ryjeir":{"team":"SSGLanders(SK)","gp":0,"pa":0,"ab":0,"h":0,"doubles":0,"triples":0,"hr":0,"rbi":0,"bb":0,"so":0,"stolen_bases":0,"wins":0,"era":0},"doogypirate":{"team":"SSGLanders(SK)","gp":0,"pa":0,"ab":0,"h":0,"doubles":0,"triples":0,"hr":0,"rbi":0,"bb":0,"so":0,"stolen_bases":0,"wins":0,"era":0}};
