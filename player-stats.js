@@ -1537,19 +1537,19 @@ const playerStats={
   },
   "CUTI_STREET": {
     "team": "NCDinos",
-    "gp": 9,
-    "pa": 17,
-    "ab": 17,
-    "h": 2,
+    "gp": 0,
+    "pa": 0,
+    "ab": 0,
+    "h": 0,
     "doubles": 0,
     "triples": 0,
     "hr": 0,
-    "rbi": 1,
+    "rbi": 0,
     "bb": 0,
     "so": 0,
     "stolen_bases": 0,
     "wins": 2,
-    "era": 0.982
+    "era": 90.9999
   },
   "xxsks_ekw": {
     "team": "NCDinos",
